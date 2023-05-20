@@ -1,2 +1,3 @@
-# computer_vision
-Repositório destinado ao desenvolvimento de projetos relacionados à Visão Computacional
+# COMPUTER VISION
+Repository dedicated to the development of projects related to Computer Vision.
+
